@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_omj_4tg_npb">
+    <title>How to sum up numbers</title>
+    <shortdesc>Here you will find instructions about using the sum up feature of calculator
+        application.</shortdesc>
+    <taskbody>
+        <prereq id="prereq_hcr_c1h_npb">To successfully add numbers, you must know what is
+            addition.</prereq>
+        <context id="context_icr_c1h_npb"/>
+        <steps id="steps_jcr_c1h_npb">
+            <step>
+                <cmd>Enter the first number</cmd>
+            </step>
+            <step>
+                <cmd>Choose the plus(+) option.</cmd>
+            </step>
+            <step>
+                <cmd>Enter the second number.</cmd>
+            </step>
+            <step>
+                <cmd>Choose the equals(=) button.</cmd>
+            </step>
+        </steps>
+        <result id="result_tqf_cxg_npb">The result from summing up is displayed.</result>
+        <example id="example_ajp_cxg_npb">You want to add 2 with 3. The equation will look like
+            3+2=5. You enter 3. Press plus button. Enter 2. Press equals button.<p>The result 5
+                appears on the screen.</p></example>
+    </taskbody>
+</task>

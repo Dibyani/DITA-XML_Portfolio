@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_omj_4tg_npb">
+    <title>How to multiply numbers</title>
+    <shortdesc>Here you will find instructions about using the multiplication feature of calculator
+        application.</shortdesc>
+    <taskbody>
+        <prereq id="prereq_cnx_kzg_npb">To successfully multiply numbers, you must know what is
+            multiplication.</prereq>
+        <context id="context_dnx_kzg_npb"/>
+        <steps id="steps_enx_kzg_npb">
+            <step>
+                <cmd>Enter the first number</cmd>
+            </step>
+            <step>
+                <cmd>Choose the star(*) option.</cmd>
+            </step>
+            <step>
+                <cmd>Enter the second number.</cmd>
+            </step>
+            <step>
+                <cmd>Choose the equals(=) button.</cmd>
+            </step>
+        </steps>
+        <result id="result_tqf_cxg_npb">The result from multiplication is displayed.</result>
+        <example id="example_ajp_cxg_npb">You want to multiply 2 with 3. The equation will look like
+            3*2=6. You enter 3. Press star button. Enter 2. Press equals button.<p>The result 6
+                appears on the screen.</p></example>
+    </taskbody>
+</task>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_omj_4tg_npb">
+    <title>How to divide numbers</title>
+    <shortdesc>Here you will find instructions about using the division feature of calculator
+        application.</shortdesc>
+    <taskbody>
+        <prereq id="prereq_evd_rzg_npb">To successfully divide numbers, you must know what is
+            division.</prereq>
+        <context id="context_fvd_rzg_npb"/>
+        <steps id="steps_gvd_rzg_npb">
+            <step>
+                <cmd>Enter the first number</cmd>
+            </step>
+            <step>
+                <cmd>Choose the forward slash(/) option.</cmd>
+            </step>
+            <step>
+                <cmd>Enter the second number.</cmd>
+            </step>
+            <step>
+                <cmd>Choose the equals(=) button.</cmd>
+            </step>
+        </steps>
+        <result id="result_tqf_cxg_npb">The result from division is displayed.</result>
+        <example id="example_ajp_cxg_npb">You want to divide 6 by 3. The equation will look like
+            6/3=2. You enter 6. Press forward slash button. Enter 3. Press equals button.<p>The
+                result 2 appears on the screen.</p></example>
+    </taskbody>
+</task>
